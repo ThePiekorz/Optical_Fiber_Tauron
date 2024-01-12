@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Optical_Fiber_Tauron.iml" filepath="$PROJECT_DIR$/.idea/Optical_Fiber_Tauron.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Praca_Inz/.idea/Praca_Inz.iml" filepath="$PROJECT_DIR$/../Praca_Inz/.idea/Praca_Inz.iml" />
     </modules>
   </component>
 </project>
